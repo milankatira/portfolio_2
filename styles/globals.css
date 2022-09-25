@@ -7,3 +7,8 @@
     @apply text-xs tracking-widest text-gray-500 px-6 py-2 border border-[#242424] rounded-full uppercase transition-all hover:border-[#F7ABBA]/40 hover:text-[#f7ab0a]/40;
   }
 }
+
+*{
+  margin: 0;
+  scroll-behavior: smooth;
+}
